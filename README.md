@@ -1,7 +1,7 @@
 # NG Solitude Design System
-Hi there, NG Solitude Design System is open souce UI-KIT for Angular lovers based on Bootcatch Solitude Theme thanks :)
+NG Peace Design System is Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
+[![NPM](https://img.shields.io/npm/v/ng-solitude-design-system.svg)](https://www.npmjs.com/package/ng-solitude-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-solitude-design-system.svg)](https://www.npmjs.com/package/ng-solitude-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -18,15 +18,13 @@ Hi there, NG Solitude Design System is open souce UI-KIT for Angular lovers base
 
 ## Quick Start
 ```
+// Install through NPM
+$ npm i ng-solitude-design-system --save
+
+OR
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/ng-solitude-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ ng serve
 ```
 
 ## Usage
@@ -36,7 +34,7 @@ hope this will help you.
 
 ## About
 
-Ng Solitude Design System is Angular 6 and Bootstrap 4.x ( bootcatch-themes ) based UI-KIT. It is a component-based design system, It has different color styles and ready to use bootstrap components on a single click.
+Ng Solitude Design System is Angular and Bootstrap 4.x ( bootcatch-themes ) based UI-KIT. It is a component-based design system, It has different color styles and ready to use bootstrap components on a single click.
 
 So download and use for your next project, thanks.
 
