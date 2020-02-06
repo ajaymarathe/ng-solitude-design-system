@@ -1,6 +1,6 @@
 {
   "name": "ng-solitude-design-system",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "NG Solitude Design System is Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,9 @@
     "free",
     "uikit",
     "uikit-components",
-    "solitude-uikit"
+    "solitude-uikit",
+    "angular-design-system",
+    "design-system"
   ],
   "author": "Ajay Marathe <0107amar@gmail.com> (http://bootcatch.com/lightly)",
   "license": "MIT",
