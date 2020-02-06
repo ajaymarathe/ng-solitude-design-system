@@ -1,5 +1,5 @@
 # NG Solitude Design System
-NG Peace Design System is Coded, Written & Published By Bootcatch Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
+NG Peace Design System is Coded, Written & Published By Bootcatch, Based on Angular & Bootstrap 4.x ( Bootcatch-themes ).
 
 [![NPM](https://img.shields.io/npm/v/ng-solitude-design-system.svg)](https://www.npmjs.com/package/ng-solitude-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-solitude-design-system.svg)](https://www.npmjs.com/package/ng-solitude-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
